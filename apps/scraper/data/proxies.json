@@ -1,527 +1,527 @@
 [
   {
     "link": "tg://proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-    "ping": 52,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=103.161.35.23&port=443&secret=dd79e7010200010007f0030386e24c3add",
-    "ping": 103,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=207.89.20.5&port=443&secret=4da47f00c2291d55696fa3ae954ffd78",
-    "ping": 103,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=194.60.228.185&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 104,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=87.248.129.221&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "ping": 107,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=188.40.68.169&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 112,
+    "ping": 55,
     "isAlive": true
   },
   {
     "link": "tg://proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f68cef86baf",
-    "ping": 122,
+    "ping": 86,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
-    "ping": 127,
+    "link": "tg://proxy?server=87.248.129.221&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "ping": 90,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=65.109.218.46&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "ping": 129,
+    "link": "tg://proxy?server=207.89.20.5&port=443&secret=4da47f00c2291d55696fa3ae954ffd78",
+    "ping": 90,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=bia.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 130,
+    "link": "tg://proxy?server=194.60.228.185&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 91,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=65.21.227.198&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
-    "ping": 135,
+    "link": "tg://proxy?server=103.161.35.23&port=443&secret=dd79e7010200010007f0030386e24c3add",
+    "ping": 91,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=faq.slamawna.info&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7",
-    "ping": 187,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ",
-    "ping": 192,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=103.83.145.50&port=2053&secret=ddc8576be4484da99437c59af67c28ae44",
-    "ping": 221,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=LOVE.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 231,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 247,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=ai.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 253,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 276,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=dokhtar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-    "ping": 282,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 287,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=iamnegan.setado.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 288,
+    "link": "tg://proxy?server=188.40.68.169&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 97,
     "isAlive": true
   },
   {
     "link": "tg://proxy?server=bad.nisti.co.uk&port=8880&secret=EERighJJvXrFGRMCIMJdCQ",
-    "ping": 300,
+    "ping": 108,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=noron.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 300,
+    "link": "tg://proxy?server=bia.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 117,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=new.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 303,
+    "link": "tg://proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+    "ping": 119,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 309,
+    "link": "tg://proxy?server=65.109.218.46&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "ping": 119,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=VATAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 316,
+    "link": "tg://proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ",
+    "ping": 120,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 318,
+    "link": "tg://proxy?server=65.21.227.198&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+    "ping": 126,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 337,
+    "link": "tg://proxy?server=faq.slamawna.info&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7",
+    "ping": 173,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=noone.lavazemi1.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 338,
+    "link": "tg://proxy?server=ai.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 187,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=messi2.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 354,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=94.184.39.105.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
-    "ping": 357,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=8km.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 366,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=look.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 367,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 370,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=RAGNAR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 372,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=194-63.aghaee.54-65-43-p.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
-    "ping": 373,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=kala.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-    "ping": 375,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=mashti.just-money.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 378,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=from.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 384,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=napoli.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 390,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=narooo.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 393,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=flux.lavazemi5.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 395,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=mahsa-khanom.mahastim-57-232.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
-    "ping": 401,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=s44447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 402,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=8iis1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 414,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=petros-iranim.qavi-tarin.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
-    "ping": 416,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=pjjp1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 418,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=cr777.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 422,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=n88j8b9.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
-    "ping": 431,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 431,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=meshki.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 433,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=94.184.32.115.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
-    "ping": 441,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=behtarin.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 442,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 444,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=leomessi.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 447,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=karbar123456.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add",
-    "ping": 448,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=79e344818749bd7ac519130220c25d09",
-    "ping": 457,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=dedicated.syscloudio.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-    "ping": 458,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=kb9.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
-    "ping": 462,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=eyiran33.suser.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
-    "ping": 465,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d",
-    "ping": 469,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=44.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
-    "ping": 475,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=joje.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 487,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 512,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 520,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 521,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 523,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=2ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 527,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 528,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-    "ping": 531,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 536,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 540,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 546,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=proxy-daemi-s1.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA==",
-    "ping": 549,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=94.184.32.28.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
-    "ping": 558,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=plm6.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
-    "ping": 558,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=212.108.98.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
-    "ping": 559,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=kurd.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 562,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=manager-add.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add",
-    "ping": 570,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 576,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 603,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 654,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 655,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=reyhoon.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-    "ping": 674,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=p6f2a1b3-e8c4-471f-b5a6-9c2d8e7b1a4f-b5c6-d7e8.space&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
-    "ping": 689,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=06dgvasl22jka013377.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
-    "ping": 690,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=sefid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 699,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=nigan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 700,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=nooshabe.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-    "ping": 701,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=ajab.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add",
-    "ping": 716,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 737,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=dip00001.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 750,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=94.184.39.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
-    "ping": 752,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=tabestan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 783,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=app.free-telegram.link&port=443&secret=ddfb47a1320fa86adfa6e63b425154ce1b",
-    "ping": 847,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-    "ping": 847,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=FAST.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 852,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=groupe.avacloud.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-    "ping": 926,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=ay.havaar.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 1010,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=liverpool.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 1351,
-    "isAlive": true
-  },
-  {
-    "link": "tg://proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 1362,
+    "link": "tg://proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 193,
     "isAlive": true
   },
   {
     "link": "tg://proxy?server=VIP.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 1379,
+    "ping": 194,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=dokhtar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+    "ping": 210,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=8iis1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 215,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=iamnegan.setado.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 219,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=103.83.145.50&port=2053&secret=ddc8576be4484da99437c59af67c28ae44",
+    "ping": 225,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=noone.lavazemi1.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 230,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 243,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=VATAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 247,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=mashti.just-money.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 251,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=liverpool.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 257,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 261,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=look.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 261,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=app.free-telegram.link&port=443&secret=ddfb47a1320fa86adfa6e63b425154ce1b",
+    "ping": 271,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=napoli.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 290,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=from.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 297,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+    "ping": 301,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=narooo.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 301,
     "isAlive": true
   },
   {
     "link": "tg://proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 1459,
+    "ping": 303,
     "isAlive": true
   },
   {
-    "link": "tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "ping": 1526,
+    "link": "tg://proxy?server=flux.lavazemi5.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 306,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=194-63.aghaee.54-65-43-p.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
+    "ping": 310,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 314,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=n88j8b9.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
+    "ping": 330,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=messi2.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 335,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=kb9.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
+    "ping": 338,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=karbar123456.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add",
+    "ping": 347,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 350,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 357,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=manager-add.sillakhor.info&port=8443&secret=1603010200010001fc030386e24c3add",
+    "ping": 365,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 370,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 379,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 380,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=pjjp1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 381,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=idiot.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 384,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=ay.havaar.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 385,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=kala.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
+    "ping": 390,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 393,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=behtarin.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 406,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=reyhoon.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+    "ping": 406,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=dip00001.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 413,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=eyiran33.suser.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
+    "ping": 414,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=dedicated.syscloudio.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+    "ping": 416,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=79e344818749bd7ac519130220c25d09",
+    "ping": 421,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=tabestan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 428,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 436,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=sefid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 451,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=kurd.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 451,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=nigan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 464,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=94.184.32.28.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
+    "ping": 464,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=petros-iranim.qavi-tarin.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
+    "ping": 464,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=8km.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 464,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+    "ping": 474,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=212.108.98.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
+    "ping": 477,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=2ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 478,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 486,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=94.184.39.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
+    "ping": 488,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 488,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=mahsa-khanom.mahastim-57-232.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
+    "ping": 488,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=p6f2a1b3-e8c4-471f-b5a6-9c2d8e7b1a4f-b5c6-d7e8.space&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d",
+    "ping": 489,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d",
+    "ping": 490,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=94.184.32.115.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
+    "ping": 494,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=groupe.avacloud.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+    "ping": 500,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=06dgvasl22jka013377.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
+    "ping": 507,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=plm6.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
+    "ping": 535,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=noron.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 537,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 543,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=leomessi.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 546,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=new.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 549,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=21.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 568,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 569,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=s44447n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 576,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=44.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
+    "ping": 581,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=nooshabe.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+    "ping": 584,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=cr777.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 628,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=meshki.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 634,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 636,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 642,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=94.184.39.105.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==",
+    "ping": 642,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 650,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=ajab.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add",
+    "ping": 663,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=joje.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 737,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=LOVE.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 1165,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=RAGNAR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 1206,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 1224,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 1224,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 1330,
     "isAlive": true
   },
   {
     "link": "tg://proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-    "ping": 1733,
+    "ping": 1396,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=proxy-daemi-s1.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA==",
+    "ping": 1467,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "ping": 1592,
+    "isAlive": true
+  },
+  {
+    "link": "tg://proxy?server=FAST.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+    "ping": 2483,
     "isAlive": true
   },
   {
